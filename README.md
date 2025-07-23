@@ -11,10 +11,6 @@ This project, titled "A STUDY ON FACIAL EMOTION RECOGNITION USING DEEP LEARNING,
 * **Streamlit Web Interface:** Provides an intuitive and interactive user interface for easy interaction.
 * **Seven Basic Emotions:** Capable of recognizing a range of emotions including happy, sad, angry, neutral, surprise, fear, and disgust.
 
-## Demo/Screenshots (Highly Recommended!)
-Include screenshots or a GIF of your Streamlit app in action. This is crucial for showcasing.
-You can take screenshots of your local Streamlit app running and save them in a folder like `assets/` in your repository.
-
 ![App Screenshot 1](assets/screenshot1.png)
 *A screenshot showing the main interface of the emotion recognition app.*
 
