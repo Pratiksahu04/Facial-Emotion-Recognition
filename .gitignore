@@ -1,0 +1,34 @@
+# Virtual environment
+img/
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.vscode/ # VS Code specific settings
+
+# IDE specific files
+.idea/ # PyCharm
+*.iml
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Data files (if they are large or sensitive)
+# Consider if you want to commit your model weights (.h5, .keras)
+# If they are very large, you might use Git LFS later.
+# For now, if they are manageable, you can commit them.
+# If your model is large (e.g., >50-100MB), you might want to add it here
+# model.h5
+# saved_model/
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
